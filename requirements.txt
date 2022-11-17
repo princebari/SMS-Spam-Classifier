@@ -1,7 +1,6 @@
 streamlit
 nltk
 sklearn
-python
 scipy
 pandas
 numpy

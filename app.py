@@ -2,6 +2,7 @@
 import streamlit as st
 import base64
 import pickle
+import sklearn
 from nltk.stem.porter import PorterStemmer
 import nltk
 nltk.download('punkt')

@@ -15,7 +15,9 @@ Our main goal of this case study is to design an email/SMS spam filtering system
 <h2>Problem Statement<h2>
 
 Build a email/SMS spam detector system using machine learning algorithm
+  
 Predict whether the given message is ham or spam.
+  
 Classify the email/SMS into a ham or spam given the email/SMS text.
 
 

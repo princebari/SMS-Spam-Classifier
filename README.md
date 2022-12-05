@@ -1,7 +1,7 @@
 <h1>SMS SPAM CLASSIFIER</h1>
 
 
-<h2> Description <h2>
+<h2> Description </h2>
 Email/SMS is the worldwide use of communication application. It is because of the ease of use and faster than other communication application. However, its inability to detect whether the message content is either spam or ham degrade its performance. Nowadays, lot of cases have been reported regarding stealing of personal information or phishing activities via message from the user
 
 Nowadays, a big part of people rely on available email or messages sent by the stranger. The possibility that anybody can leave an email or message provides a golden opportunity for spammers to write spam message about our different interests. Spam fills inbox with number of ridiculous emails/messages. Degrades our internet speed to a great extent. Steals useful information like our details on our contact list. Identifying these spammers and also the spam content can be a hot topic of research and laborious tasks. Email/SMS spam is an operation to send messages in bulk by mail/SMS.
@@ -12,7 +12,7 @@ A few common spam emails/SMS include fake advertisements, chain emails, and impe
 
 Our main goal of this case study is to design an email/SMS spam filtering system using machine learning. It is a binary classification problem. Given a new email/SMS we will predict whether it is spam or non-spam. The reason to do this is simple: by detecting unsolicited and unwanted emails/SMS, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience.
 
-<h2>Problem Statement<h2>
+<h2>Problem Statement</h2>
 
 Build a email/SMS spam detector system using machine learning algorithm
   

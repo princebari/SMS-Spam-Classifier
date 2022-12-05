@@ -1,4 +1,4 @@
-<h1>EMAIL SPAM CLASSIFIER</h1>
+<h1>SMS SPAM CLASSIFIER</h1>
 
 
 <h2> Description <h2>
@@ -37,5 +37,5 @@ Binary Confusion Matrix
 <h2>Web app URL</h2>
   https://princebari-sms-spam-classifier-app-doacjo.streamlit.app/
   
-  ![Screenshot_20221205_112218](https://user-images.githubusercontent.com/115543070/205559556-e06161c5-03b2-462f-aab0-924b91da87a9.png)
+![Screenshot_20221205_112218](https://user-images.githubusercontent.com/115543070/205559556-e06161c5-03b2-462f-aab0-924b91da87a9.png)
 

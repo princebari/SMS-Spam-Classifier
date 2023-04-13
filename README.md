@@ -1,4 +1,5 @@
 <h1>SMS SPAM CLASSIFIER</h1>
+This repository contains the code and resources for a end to end Machine learning project that 
 
 ![image](https://user-images.githubusercontent.com/115543070/231711142-6189377b-ad18-4e72-8f8a-3baae59dbf86.png)
 

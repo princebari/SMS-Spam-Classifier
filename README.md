@@ -1,6 +1,7 @@
 <h1>SMS SPAM CLASSIFIER</h1>
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ferdiolmezogullari%2Fml-spam-sms-classification&psig=AOvVaw3ik2Beul5cjaytIA8mr5xF&ust=1681463132509000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjztLfApv4CFQAAAAAdAAAAABAE
+![image](https://user-images.githubusercontent.com/115543070/231711142-6189377b-ad18-4e72-8f8a-3baae59dbf86.png)
+
 <h2> Description </h2>
 Email/SMS is the worldwide use of communication application. It is because of the ease of use and faster than other communication application. However, its inability to detect whether the message content is either spam or ham degrade its performance. Nowadays, lot of cases have been reported regarding stealing of personal information or phishing activities via message from the user
 

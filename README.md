@@ -1,6 +1,6 @@
 <h1>SMS SPAM CLASSIFIER</h1>
 
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ferdiolmezogullari%2Fml-spam-sms-classification&psig=AOvVaw3ik2Beul5cjaytIA8mr5xF&ust=1681463132509000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjztLfApv4CFQAAAAAdAAAAABAE
 <h2> Description </h2>
 Email/SMS is the worldwide use of communication application. It is because of the ease of use and faster than other communication application. However, its inability to detect whether the message content is either spam or ham degrade its performance. Nowadays, lot of cases have been reported regarding stealing of personal information or phishing activities via message from the user
 
@@ -11,6 +11,9 @@ The dangers of spam messages for the users are many: undesired advertisement, ex
 A few common spam emails/SMS include fake advertisements, chain emails, and impersonation attempts. While these built-in spam detectors are usually pretty effective, sometimes, a particularly well-disguised spam email/SMS may fall through the cracks, landing in your inbox instead of your spam folder. Clicking on a spam/SMS email can be dangerous, exposing your computer and personal information to different types of malware. Therefore, it’s important to implement additional safety measures to protect your device, especially when it handles sensitive information like user data.
 
 Our main goal of this case study is to design an email/SMS spam filtering system using machine learning. It is a binary classification problem. Given a new email/SMS we will predict whether it is spam or non-spam. The reason to do this is simple: by detecting unsolicited and unwanted emails/SMS, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience.
+
+<h2>Motivation</h2>
+The exponential growth of mobile communication has made SMS messaging an indispensable part of our daily lives. However, the increasing number of spam messages poses a significant threat to user privacy, security, and convenience. By leveraging the power of machine learning, we can develop an accurate and reliable SMS spam classification system that can effectively detect and filter spam messages in real-time. Such a system can improve the overall quality of mobile communication, reduce the risk of fraudulent activities, and ensure user satisfaction and safety. Therefore, investing in the development of an SMS spam classification system using machine learning is not only crucial but also a responsible step towards a better and safer digital future.
 
 <h2>Problem Statement</h2>
 
